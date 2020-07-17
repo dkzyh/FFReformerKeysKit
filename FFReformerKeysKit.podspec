@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'FFReformerKeysKit'
-  s.version          = '0.1.0'
+  s.version          = '1.0.0'
   s.summary          = 'A short description of FFReformerKeysKit.'
 
 # This description is used to generate tags and improve search results.
@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/zouyonghua87@126.com/FFReformerKeysKit'
+  s.homepage         = 'https://github.com/dkzyh/FFReformerKeysKit'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'zouyonghua87@126.com' => '360370709@qq.com' }
-  s.source           = { :git => 'https://github.com/zouyonghua87@126.com/FFReformerKeysKit.git', :tag => s.version.to_s }
+  s.author           = { 'Zouyh' => '360370709@qq.com' }
+  s.source           = { :git => 'https://github.com/dkzyh/FFReformerKeysKit.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
